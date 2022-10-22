@@ -8,9 +8,14 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] HTML
-- [x] CSS
+
 - [ ] JAVASCRIPT
+## 🧐 Gostou ?
+ 
+ > Clone o repositório e de sua estrelinha ;]
+   
+        $ git clone https://github.com/gfranca11/login-screen
+        $ cd login-screen
 
 ## 🤝 Colaboradores
 
